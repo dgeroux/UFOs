@@ -7,9 +7,9 @@ Working with UFO sighting data ; The goal of this project is to build a table wi
 ## Results
 Initially, the HTML included only a date filter in which users needed to click on a button for the filter to be applied. With the new updated version, users will be able to filter data, simply by inputting a criteria into one of the filter fields. The webpage will then automatically filter the table to display relevant data. The first image ilustrates the table without filters. Users can see the type of format that is required for the filter to function in the text box. Upon input, the table will automatically filter the results accordingly.
 
-![photo](https://github.com/dgeroux/UFOs/blob/main/resources/unfiltered_table.PNG)
+![photo](https://github.com/dgeroux/UFOs/blob/main/unfiltered_table.PNG)
 
-![photo](https://github.com/dgeroux/UFOs/blob/main/resources/filtered_table.PNG)
+![photo](https://github.com/dgeroux/UFOs/blob/main/filtered_table.PNG)
 
 ## Summary of Analysis
 One drawback of this webpage is that it is currently unable to resize in relation to the device it is viewed on. Some portion of the webpage, such as the image, is able to resize if the user magnifies the webpage, however, the webpage as a whole is unable to do so. Thus, one recommendation for further development would be to add formatting that readjusts the sections and margins when the page is viewed on a mobile device or tablet. 
